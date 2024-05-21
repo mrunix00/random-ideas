@@ -16,3 +16,6 @@ This is a list of ideas for stuff I want to make in the future
 - [ ] A build system and a package manager for [Plan9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs).
 - [ ] A cross platform sandboxing framework (A wrapper for syscalls like seccomp on Linux, capsicum on FreeBSD, unveil and pledge on OpenBSD, etc...).
 - [ ] Train an AI model on Terry Davis (could possibly go wrong 💀).
+- [ ] Simple DOS emulator.
+- [ ] Port Doom to [Essence](https://nakst.gitlab.io/essence) OS.
+- [ ] Optimize [CRAMML](https://github.com/mrunix00/CRAMML/) using SIMD instructions.
